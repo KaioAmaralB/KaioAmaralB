@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://github.com/KaioAmaralB">
-  <img align="center" margin-top="5" height="180em" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioAmaralB&layout=compact&langs_count=7&theme=dark"/>
+  <img align="center" margin-top="40" height="180em" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioAmaralB&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 # Contatos
